@@ -3,11 +3,10 @@
 [This is a Tasty Little Link for GitHub Stuff](https://www.markdownguide.org/cheat-sheet)
 
 *somebody gave me free will and it was a mistake*
-
-```javascript
+javascript
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```
+
