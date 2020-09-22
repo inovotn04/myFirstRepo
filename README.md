@@ -12,4 +12,4 @@
 
 >West Virginia
 
-![hehehe](pink.jpg)
+![hehehe](images/pink.jpg)
